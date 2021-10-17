@@ -2,7 +2,7 @@
 
 This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Monterey 12 beta 9 (11.3.1). FCPX GPU rendering works smoothly. HDR can be enabled.
 
-
+![Z170A](https://github.com/almshary/Asus-Z170-A-Opencore/blob/main/ScreenShot.png)
 
 ## Notes
 1. Mac boot chime is added. You may need to modify `config.plist/UEFI/Audio/AudioOut` based you motherboard layout.
