@@ -676,7 +676,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02638104J9GPF7FB</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -688,9 +688,9 @@
 			<key>SystemProductName</key>
 			<string>iMac17,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02SF0P1GG7L</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>467F9EA1-E768-498B-93D1-742A11FA878F</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
