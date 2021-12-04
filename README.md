@@ -15,7 +15,7 @@ This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Mon
 |-----|-----|-----|-----|-----|
 | Motherboard | ASUS | Z170-A | | |
 | CPU | Intel | i7-6700K | | |
-| RAM | Corsair | Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3200MHz | | |
+| RAM | Corsair | Vengeance LPX 32GB (4x8GB) DDR4 DRAM 3200MHz | | |
 | iGPU | Intel | HD Graphics 530 | built-in | Headless mode |
 | dGPU | MSI | RX 580 Armor 4GB | built-in | 2304 SP |
 | SSD | Kingston | HyperX Predator 240GB PCIe Gen2 x4 (M.2) | [NVMeFix](https://github.com/acidanthera/NVMeFix) | |
