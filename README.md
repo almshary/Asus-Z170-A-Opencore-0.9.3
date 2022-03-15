@@ -1,6 +1,6 @@
 # Asus-Z170-A-Opencore 0.7.9
 
-This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Monterey 12.2.1 (21D62). FCPX GPU rendering works smoothly. HDR can be enabled.
+This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Monterey 12.3 (21E230). FCPX GPU rendering works smoothly. HDR can be enabled.
 
 ![Z170A](https://github.com/almshary/Asus-Z170-A-Opencore/blob/main/ScreenShot.png)
 
