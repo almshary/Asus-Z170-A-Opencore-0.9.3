@@ -70,7 +70,7 @@ You will need to generate your own SMBIOS and configure, since is required to fu
 Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own unique SMBIOS and then copy each parametter following path (recomended to follow the guide above):
   - Config.plist -> PlatformInfo -> Generic
 
-<img src="assets/smbios.png">
+<img src="https://raw.githubusercontent.com/almshary/Asus-Z170-A-Opencore-0.7.9/main/smbios.png">
 
 ## Credits:
 
