@@ -45,9 +45,37 @@ This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Mon
 | OS Type | Other OS |
 | Launch CSM | Disabled |
 
-## Acknowledgement
-Apple for macOS
+## :white_check_mark: Working:
 
-acidanthera for OpenCore etc.
+- [x] CPU power management.
+- [x] Graphics acceleration.
+- [x] Battery read-out.
+- [x] Keyboard & trackpad with all macOS gestures.
+- [x] Wi-Fi.
+- [x] Bluetooth.
+- [x] USB ports.
+- [x] HDMI video & audio output.
+- [x] Ethernet.
+- [x] Audio (Internal speakers, 3.5mm headphone jack).
+- [x] Internal microphone.
+- [x] VGA WebCam.
+- [x] AirDrop & Handoff.
+- [x] iCloud & App Store.
+- [x] iMessage & FaceTime.
 
-headkaze for Hackintool
+## :closed_lock_with_key: SMBIOS 
+
+You will need to generate your own SMBIOS and configure, since is required to fully work with macOS. As per this [guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html#platforminfo) you can use the following SMBIOS: iMac17,1.
+
+Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own unique SMBIOS and then copy each parametter following path (recomended to follow the guide above):
+  - Config.plist -> PlatformInfo -> Generic
+
+<img src="assets/smbios.png">
+
+## Credits:
+
+[**Apple**](http://apple.com/)
+
+[**Acidanthera**](https://github.com/acidanthera)
+
+[**Dortania**](https://dortania.github.io/getting-started/)
