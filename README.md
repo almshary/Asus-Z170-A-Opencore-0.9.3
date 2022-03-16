@@ -49,7 +49,6 @@ This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Mon
 
 - [x] CPU power management.
 - [x] Graphics acceleration.
-- [x] Battery read-out.
 - [x] Keyboard & trackpad with all macOS gestures.
 - [x] Wi-Fi.
 - [x] Bluetooth.
