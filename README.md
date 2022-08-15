@@ -1,5 +1,7 @@
 # Asus-Z170-A-Opencore 0.8.3
 
+# This will be the last update for SMBIOS iMac17,1 as Skylake support is dropped in macOS 13.
+
 This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Monterey 12.5 FCPX GPU rendering works smoothly. HDR can be enabled.
 
 ![Z170A](https://github.com/almshary/Asus-Z170-A-Opencore/blob/main/ScreenShot.png)
