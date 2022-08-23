@@ -4,6 +4,9 @@
 
 This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Monterey 12.5.1 FCPX GPU rendering works smoothly. HDR can be enabled.
 
+# For FIX DRM Use SMBIOS: iMacPro1,1 
+(so you can get fully working Netflix)
+
 ![Z170A](https://github.com/almshary/Asus-Z170-A-Opencore/blob/main/ScreenShot.png)
 
 ## Notes
@@ -67,6 +70,10 @@ This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Mon
 ## :closed_lock_with_key: SMBIOS 
 
 You will need to generate your own SMBIOS and configure, since is required to fully work with macOS. As per this [guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html#platforminfo) you can use the following SMBIOS: iMac17,1.
+
+## DRM FIX:
+
+Use SMBIOS: iMacPro1,1
 
 Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own unique SMBIOS and then copy each parametter following path (recomended to follow the guide above):
   - Config.plist -> PlatformInfo -> Generic
