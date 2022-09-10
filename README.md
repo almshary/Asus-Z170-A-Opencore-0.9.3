@@ -1,11 +1,9 @@
-# Asus-Z170-A-Opencore 0.8.3
-
-# This will be the last update for SMBIOS iMac17,1 as Skylake support is dropped in macOS 13.
+# Asus-Z170-A-Opencore 0.8.4
 
 This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Monterey 12.5.1 FCPX GPU rendering works smoothly. HDR can be enabled.
 
 # For FIX DRM Use SMBIOS: iMacPro1,1 
-(so you can get fully working Netflix)
+(so you can get fully working Netflix + All iCloud Services)
 
 ![Z170A](https://github.com/almshary/Asus-Z170-A-Opencore/blob/main/ScreenShot.png)
 
@@ -63,7 +61,7 @@ This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Mon
 - [x] Audio (Internal speakers, 3.5mm headphone jack).
 - [x] Internal microphone.
 - [x] VGA WebCam.
-- [x] AirDrop & Handoff.
+- [x] AirDrop & Handoff & AirPlay & Screen Mirroring.
 - [x] iCloud & App Store.
 - [x] iMessage & FaceTime.
 
