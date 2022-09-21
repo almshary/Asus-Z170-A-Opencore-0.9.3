@@ -1,11 +1,13 @@
 # Asus-Z170-A-Opencore 0.8.4
 
-This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Monterey 12.5.1 FCPX GPU rendering works smoothly. HDR can be enabled.
+This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Monterey 12.6 & Ventura 13.0 Beta 8 (22A5352e). also FCPX GPU rendering works smoothly. HDR can be enabled.
 
 # For FIX DRM Use SMBIOS: iMacPro1,1 
 (so you can get fully working Netflix + All iCloud Services)
 
 ![Z170A](https://github.com/almshary/Asus-Z170-A-Opencore/blob/main/ScreenShot.png)
+
+![Z170A](https://github.com/almshary/Asus-Z170-A-Opencore/blob/main/Ventura.png)
 
 ## Notes
 1. I chose 15 USB ports in my USB map. 2x USB 3.0(front) + 4x USB 3.0(back) + 2x USB 2.0(back) + Bluetooth(internal via USB 2.0) = 15 ports. Generally there's no front USB 2.0 port on ITX cases so I didn't include onboard USB 2.0 ports(HS11/HS12). I believe this is a reasonable trade-off for most people. However if you bought some strange Wi-Fi card which requires USB 2.0 header, you need follow [this guide](https://dortania.github.io/USB-Map-Guide/) to create your own USB map.
