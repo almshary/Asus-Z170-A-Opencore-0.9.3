@@ -5,7 +5,7 @@ This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Mon
 # For FIX DRM Use SMBIOS: iMacPro1,1 
 (so you can get fully working Netflix + All iCloud Services)
 
-![Z170A](https://github.com/almshary/Asus-Z170-A-Opencore/blob/main/ScreenShot.png)
+![Z170A](https://github.com/almshary/Asus-Z170-A-Opencore/blob/main/Monterey.png)
 
 ![Z170A](https://github.com/almshary/Asus-Z170-A-Opencore/blob/main/Ventura.png)
 
