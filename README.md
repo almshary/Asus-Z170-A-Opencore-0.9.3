@@ -1,4 +1,4 @@
-# Asus-Z170-A-Opencore 0.8.4
+# Asus-Z170-A-Opencore 0.8.5
 
 This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Monterey 12.6 & Ventura 13.0 Beta 8 (22A5352e). also FCPX GPU rendering works smoothly. HDR can be enabled.
 
