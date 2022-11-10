@@ -19,8 +19,8 @@ This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Mon
 | RAM | Corsair | Vengeance LPX 32GB (4x8GB) DDR4 DRAM 3200MHz | | |
 | iGPU | Intel | HD Graphics 530 | built-in | Headless mode |
 | dGPU | MSI | RX 580 Armor 4GB | built-in | 2304 SP |
-| SSD | Crucial | P2 500GB PCIe M.2 NVMe (PCIe Gen 3 x4) | [NVMeFix](https://github.com/acidanthera/NVMeFix) | |
-| SSD | Samsung | 970 Evo Plus 1TB PCIe M.2 NVMe (PCIe Gen 3 x4) | [NVMeFix](https://github.com/acidanthera/NVMeFix) | |
+| SSD | Crucial | P2 500GB PCIe M.2 NVMe (PCIe Gen 3 x4) | | |
+| SSD | Samsung | 970 Evo Plus 1TB PCIe M.2 NVMe (PCIe Gen 3 x4) | | |
 | Wireless | Fenvi | T919 Wi-Fi 2.4/5GHz and Bluetooth 4.0 PCI-E Card | built-in | |
 | Ethernet | Intel | I219-V | [IntelMausi](https://github.com/acidanthera/IntelMausi) | |
 | Audio | Realtek | ALC892 | [AppleALC](https://github.com/acidanthera/AppleALC) | |
