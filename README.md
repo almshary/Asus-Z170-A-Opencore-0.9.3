@@ -1,6 +1,6 @@
-# Asus-Z170-A-Opencore 0.9.0
+# Asus-Z170-A-Opencore 0.9.1
 
-This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Monterey 12.6 & Ventura 13.2 (22D49). also FCPX GPU rendering works smoothly. HDR can be enabled.
+This is an OpenCore version of ASUS Z170-A Hackintosh EFI. It works on macOS Ventura 13.3 (22E252). also FCPX GPU rendering works smoothly. HDR can be enabled.
 
 # For FIX DRM Use SMBIOS: iMacPro1,1 
 (so you can get fully working Netflix + All iCloud Services)
